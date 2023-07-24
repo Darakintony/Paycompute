@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Idara\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Idara\\.nuget\\packages"
+    ]
+  }
+}
